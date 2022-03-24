@@ -14,7 +14,7 @@
 <a href="https://www.youtube.com/c/luisito1994ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luisito1994ls" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">My Stats:</h2>
+<h2 align="center">My Stats:</h2>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cucarach0n&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="cucarach0n" />      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cucarach0n&theme=dark" alt="cucarach0n" /></p>
 
@@ -119,7 +119,7 @@
 #### Framework
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
