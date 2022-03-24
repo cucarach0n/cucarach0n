@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer from Peru</h3>
 <p align="center">
 	
-[![Spotify](https://spotify-git.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/antexngopkqeh5hl073r0e8do)	
+[![Spotify](https://spotifygit-ten.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/antexngopkqeh5hl073r0e8do)	
 	</p>
 	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cucarach0n&label=Profile%20views&color=0e75b6&style=flat" alt="cucarach0n" /> </p>
