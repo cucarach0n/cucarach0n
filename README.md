@@ -21,15 +21,17 @@
 <a href="https://www.youtube.com/c/luisito1994ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luisito1994ls" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">My Stats:</h2>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cucarach0n&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="cucarach0n" />      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cucarach0n&theme=dark" alt="cucarach0n" /></p>
-<p align="center">
 <p align="center">
 	
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 	
-</p>	
+</p>
+
+<h2 align="center">My Stats:</h2>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cucarach0n&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="cucarach0n" />      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cucarach0n&theme=dark" alt="cucarach0n" /></p>
+<p align="center">
+	
 </p>
 <h2 align="left">Skills:</h2>
 
