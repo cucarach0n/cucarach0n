@@ -26,7 +26,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cucarach0n&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="cucarach0n" />      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cucarach0n&theme=dark" alt="cucarach0n" /></p>
 <p align="center">
 <p align="center">
-	<!--START_SECTION:waka--><!--END_SECTION:waka-->
+	
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+	
 </p>	
 </p>
 <h2 align="left">Skills:</h2>
