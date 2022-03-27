@@ -22,8 +22,9 @@
 </p>
 
 ---
-📊 **This week I spent my time on**
 <p align="center">
+	
+📊 **This week I spent my time on**
 	
 <!--START_SECTION:waka-->
 
