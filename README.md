@@ -16,6 +16,9 @@
 
 - 📫 How to reach me **devalo19@gmail.com**
 
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/cucarach0n"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cucarach0n" /></a></p><br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/luisito1994ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luisito1994ls" height="30" width="40" /></a>
@@ -257,3 +260,4 @@ Bash     13 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </tr>
 
 </table>  
+
