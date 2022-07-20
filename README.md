@@ -9,6 +9,7 @@
 </p>
 
 <!--START_SECTION:badges-->
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/e973118c-c2c9-4bf2-ad82-21e069f8a44c "Introduction to Cybersecurity")
 <!--END_SECTION:badges-->
 
 
