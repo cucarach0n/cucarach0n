@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cucarach0n&label=Profile%20views&color=0e75b6&style=flat" alt="cucarach0n" /> </p>
 
-- 🌱 I’m currently learning **WebRTC**
+- 🌱 I’m currently learning **Spring boot JAVA**
 
 - 💬 Ask me about **Python, C# or anything you want help**
 
