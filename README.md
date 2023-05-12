@@ -13,11 +13,8 @@
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 <!--START_SECTION:badges-->
+[![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/4a59359a-f93b-4f39-a11f-7bade3b14f58 "Python Essentials 1")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/e973118c-c2c9-4bf2-ad82-21e069f8a44c "Introduction to Cybersecurity")
-<!--END_SECTION:badges-->
-
-<!--START_SECTION:badges-->
-[![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/4a59359a-f93b-4f39-a11f-7bade3b14f58/public_url "Python Essentials 1")
 <!--END_SECTION:badges-->
 	
 </p>
