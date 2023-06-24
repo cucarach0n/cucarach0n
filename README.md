@@ -13,6 +13,7 @@
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 <!--START_SECTION:badges-->
+[![Networking Academy Learn-A-Thon 2023](https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)](http://www.credly.com/badges/c58d3e01-ec21-415e-b884-e54ce9c60de5 "Networking Academy Learn-A-Thon 2023")
 [![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/4a59359a-f93b-4f39-a11f-7bade3b14f58 "Python Essentials 1")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/e973118c-c2c9-4bf2-ad82-21e069f8a44c "Introduction to Cybersecurity")
 <!--END_SECTION:badges-->
