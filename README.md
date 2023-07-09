@@ -44,8 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         12 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.55 %
-JavaScript   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
