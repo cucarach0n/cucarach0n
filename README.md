@@ -44,7 +44,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML   5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.68 %
+Java   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.32 %
 ```
 
 <!--END_SECTION:waka-->
