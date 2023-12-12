@@ -44,8 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   98.26 %
-Java   0 secs          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
